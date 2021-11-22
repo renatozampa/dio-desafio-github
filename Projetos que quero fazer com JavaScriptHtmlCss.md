@@ -2,7 +2,7 @@
 
 
 
-- Jogo da velha 
+- Pedra, Papel, Tesoura 
 - Calculadora Básica
 - Urna Eletrônica 
 - Portfólio
